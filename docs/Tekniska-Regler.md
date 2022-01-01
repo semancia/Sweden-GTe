@@ -23,7 +23,8 @@ För laddningsregler se RB-T 1.5
 ### Antenn
 - Antennen måste vara av böjligt material.
 ### Motor
-*Blank*
+- Max 2400 kv eller 2400 rpm / volt
+- Måste vara kommersiellt tillgänglig
 ### Broms och koppling
 - Inga extra bromssystem är tillåtet att användas utöver elmotorn & ESC även kallat “friction brake”.
 
