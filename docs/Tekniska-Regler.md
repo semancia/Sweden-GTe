@@ -13,6 +13,7 @@ tolkas som klasspecifika regler för 1/8 GTe. Se även [Tekniska regler Radiosty
 
 ## Banbestämmelser
 För generella bestämmelser, se RB 18.
+
 ## Tekniska specifikationer
 Gemensamma tekniska regler se RB-T 1.0
 
@@ -22,7 +23,10 @@ För laddningsregler se RB-T 1.5
 - Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential. Endast ett servo för styrning är tillåtet.
 ### Antenn
 - Antennen måste vara av böjligt material.
-
+### Bumper
+- Bilarna måste vara utrustade med bumper av flexibelt material med runda kanter för att minimera konsekvenserna av en eventuell kollision.
+- Bumpern bör följa karossens form, måste rymmas inom bilen och får inte sticka ut genom karossen.
+- Bumpern skall sticka ut minst 20 mm utanför alla hårda chassidelar och vara minst 200 mm bred, 20 mm hög & 20 mm djup.
 ### Fartreglage
 - Alla typer av fartreglage kan användas men de får inte störa varvräkningssystemet.
 - Fartreglaget måste rymmas inom bilen och får inte sticka ut genom karossen. Inga yttre
