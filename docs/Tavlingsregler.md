@@ -20,16 +20,19 @@ inplacering i heatet. Detta gäller från semifinal och uppåt.
 ### Tävlingskörning
 - Tävlingen ska avgöras på max 2 dagar med plats för minst 140 startande. RM/SM ska avgöras
 på max 3 dagar. Tid för sista varv ska vara 150% av ett normalt varv.
+
+### Träning
+En (1) kontrollerade träningar på 10 min kommer köras. Efter träningen har utförts ska en seedning utföras baserat på de två (2) bästa sammanhängande varven. Manuell justering kan även utföras i detta stadie i samråd med förarrepresentant & tävlingsledaren för att försöka skapa jämnare heat. Vid tvådagarstävling körs en 10 min kontrollerad träning på söndagen före finalerna baserat på finalheaten.
+
 ### Kvalificering
-- Minimum antal kvalomgångar är 5. Kvalheat är 5 minuter och ska köras i ordningsföljden 1, 2,
-3, 4, 5, … i varje kvalomgång. Hänsyn tas till vädersituationen. Körs 5 kvalomgångar, räknas 3.
-Körs 4 eller 3 kvalomgångar, räknas 2 och körs 2 eller 1 kvalomgångar, räknas 1.
-- Kvalificeringsheatet med de högst licensierade förarna ska vara det sista kvalificeringsheatet i
+- Maximum antal kvalomgångar är 5 och körs round by round. Kvalheat är 7 minuter + 2 min uppvärmning och ska köras i ordningsföljden 1, 2, 3, 4, 5, … i varje kvalomgång. Hänsyn tas till vädersituationen. Körs 5 kvalomgångar, räknas 3. Körs 4 eller 3 kvalomgångar, räknas 2 och körs 2 eller 1 kvalomgångar, räknas 1.
+- Kvalificeringsheatet med de högst rankade förarna ska vara det sista kvalificeringsheatet i
 kvalomgången.
 - Maximalt antal förare i kvalheat är 12. Antalet förare i heaten ska fördelas jämnt mellan
 heaten. Exempelvis vid 27 förare ska det vara 9 förare i varje heat och inte 10, 10, 7.
 - När alla kvalomgångar är genomförda upprättas kvalresultat baserat på varje förares bästa
-resultat, exempelvis varv och tid, varvtid vid varvtidskval eller poäng.
+resultat varv och tid.
+
 ### Kvalificeringssystem
 - I varje kvalomgång ska poäng baserat på resultat, varv och tid, utdelas.
 - Poängräkning görs enligt EFRA: 1 poäng för vinst, 2 poäng för andra plats och så vidare. Om man inte kört erhåller man maxpoäng dvs i en tävling med 55 förare 55 poäng.
