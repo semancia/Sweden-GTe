@@ -46,14 +46,14 @@ etc. får finnas.
 
 ### Däck
 Endast däcken från GRP nedan är tillåtna.
-• GRP T01 REVO - GTH01-S3 (Vit fälg inte competition!)
-• GRP T01 REVO – GTX01-S3 (Svart fälg)
-• GRP T01 REVO – GTY01-S3 (Gul fälg)
-• GRP T01 REVO – GTK01-S3 (Silverfärgad fälg)
-• * GRP T01 REVO - GTH01-R1 (Vita regndäck inte competition!)
-• * GRP T01 REVO - GTX01-R1 (Svarta regndäck)
-• * GRP T01 REVO - GTY01-R1 (Gula regndäck)
-• * GRP T01 REVO - GTK01-R1 (Silverfärgade regndäck)
+- GRP T01 REVO - GTH01-S3 (Vit fälg inte competition!)
+- GRP T01 REVO – GTX01-S3 (Svart fälg)
+- GRP T01 REVO – GTY01-S3 (Gul fälg)
+- GRP T01 REVO – GTK01-S3 (Silverfärgad fälg)
+- * GRP T01 REVO - GTH01-R1 (Vita regndäck inte competition!)
+- * GRP T01 REVO - GTX01-R1 (Svarta regndäck)
+- * GRP T01 REVO - GTY01-R1 (Gula regndäck)
+- * GRP T01 REVO - GTK01-R1 (Silverfärgade regndäck)
 
 Endast två (2) uppsättningar däck (fyra par) är tillåtna per tävling. Däcken ska innan start av första kvalet vara märkta i besiktningen. Endast däck som har GRP:s genuina sigill inuti däcken vara hårdhet kan avläsas kommer att få märkas i besiktningen. Märkta däck gäller endast i Kval & Finaler.
 
