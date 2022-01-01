@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sweden GTe rules
 
 You can use the [editor on GitHub](https://github.com/LargescaleSE/Sweden-GTe/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
