@@ -23,10 +23,6 @@ För laddningsregler se RB-T 1.5
 - Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential. Endast ett servo för styrning är tillåtet.
 ### Antenn
 - Antennen måste vara av böjligt material.
-### Bumper
-- Bilarna måste vara utrustade med bumper av flexibelt material med runda kanter för att minimera konsekvenserna av en eventuell kollision.
-- Bumpern bör följa karossens form, måste rymmas inom bilen och får inte sticka ut genom karossen.
-- Bumpern skall sticka ut minst 20 mm utanför alla hårda chassidelar och vara minst 200 mm bred, 20 mm hög & 20 mm djup.
 ### Fartreglage
 - Alla typer av fartreglage kan användas men de får inte störa varvräkningssystemet.
 - Fartreglaget måste rymmas inom bilen och får inte sticka ut genom karossen. Inga yttre
@@ -69,8 +65,13 @@ I.E. 1 set for Practice, 2 sets for Qualifying+super-pole, 1 set extra for subfi
 extra for main final. All used tyres available for substitution. Tyres will be marked
 with the drivers registration number.
 
-### Kaross
-- Bumpern ska vara tillverkad av ett flexibelt material och ha rundade hörn. Används bumper bak ska denna vara utförd på samma sätt och av flexibelt material.
+### Kaross, bumper & vinge
+
+#### Bumper
+- Bilarna måste vara utrustade med bumper av flexibelt material och ha rundade hörn för att minimera konsekvenserna av en eventuell kollision.
+- Bumpern bör följa karossens form, måste rymmas inom bilen och får inte sticka ut genom karossen.
+- Bumpern skall sticka ut minst 20 mm utanför alla hårda chassidelar och vara minst 200 mm bred, 20 mm hög & 20 mm djup.
+
 #### Vinge
 Alla mått ska tas när bilen är körklar och chassiplattan är nedtryckt mot marken om inte annat anges.
 
