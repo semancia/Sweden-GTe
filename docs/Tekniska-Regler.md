@@ -18,7 +18,7 @@ För laddningsregler se RB-T 1.5
 ### Allmänt
 *Blank*
 ### Antenn
-*Blank*
+- Antennen måste vara av böjligt material.
 ### Motor
 *Blank*
 ### Broms och koppling
@@ -26,7 +26,7 @@ För laddningsregler se RB-T 1.5
 ### Däck
 *Blank*
 ### Kaross
-*Blank*
+- Bumpern ska vara tillverkad av ett flexibelt material och ha rundade hörn. Används bumper bak ska denna vara utförd på samma sätt och av flexibelt material.
 #### Vinge
 *Blank*
 ### Mått och vikt
