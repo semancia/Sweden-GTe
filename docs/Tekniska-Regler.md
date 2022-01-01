@@ -19,17 +19,17 @@ Gemensamma tekniska regler se RB-T 1.0
 För laddningsregler se RB-T 1.5
 
 ### Allmänt
-Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential.
+- Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential.
 ### Antenn
 - Antennen måste vara av böjligt material.
 ### Motor
 *Blank*
 ### Broms och koppling
-Inga extra bromssystem är tillåtet att användas utöver elmotorn & ESC även kallat “friction brake”.
+- Inga extra bromssystem är tillåtet att användas utöver elmotorn & ESC även kallat “friction brake”.
 
-Bilen ska vara utrustad med en differential på både fram & bakaxel och drivas med fyrhjulsdrift. Kraftöverföringen mellan fram & bakaxel måste ske genom en eller flera kardanaxlar. Ingen form av remdriven överföring är tillåten. Alla hjul måste vara kopplade direkt till en differential via en kardanaxel och måste kunna drivas av elmotorn.
+- Bilen ska vara utrustad med en differential på både fram & bakaxel och drivas med fyrhjulsdrift. Kraftöverföringen mellan fram & bakaxel måste ske genom en eller flera kardanaxlar. Ingen form av remdriven överföring är tillåten. Alla hjul måste vara kopplade direkt till en differential via en kardanaxel och måste kunna drivas av elmotorn.
 
-Ingen one-way, spools, låsning genom "Torsion-type" eller externt justerbara differentialer är tillåtna. Differentialerna får inte vara en kuldiff och får endast justeras med silikonbaserad vätska. Utväxlingarna i differentialen fram & bakaxel måste vara identiska. Ingen form av underdrive eller overdrive fram eller bak är tillåten. Bilen måste bibehålla det ursprungliga drivsystemets uppbyggnad & funktion.
+- Ingen one-way, spools, låsning genom "Torsion-type" eller externt justerbara differentialer är tillåtna. Differentialerna får inte vara en kuldiff och får endast justeras med silikonbaserad vätska. Utväxlingarna i differentialen fram & bakaxel måste vara identiska. Ingen form av underdrive eller overdrive fram eller bak är tillåten. Bilen måste bibehålla det ursprungliga drivsystemets uppbyggnad & funktion.
 
 ### Däck
 *Blank*
