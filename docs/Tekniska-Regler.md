@@ -11,7 +11,9 @@ INT: based on Klassregler 1:8 IC OFF Road
 ## Banbestämmelser
 För generella bestämmelser, se RB 18.
 ## Tekniska specifikationer
-*Blank*
+Gemensamma tekniska regler se RB-T 1.0
+För laddningsregler se RB-T 1.5
+
 ### Allmänt
 *Blank*
 ### Antenn
