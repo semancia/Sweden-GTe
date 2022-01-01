@@ -5,7 +5,9 @@ INT: based on Klassregler 1:8 IC OFF Road
 ## Allmänt
 *Blank*
 ## Bana och banbeläggning
-*Blank*
+- Banbeläggningen ska vara jämn asfalt med släta skarvar. Minimilängden är 200 meter (240 – 300 rekommenderas). Banan ska begränsas av kantlinjer som måste vara 8 - 10 cm breda och antingen vita eller gula. Minimibredden på banan mellan kantlinjerna ska vara 4 meter och max bredden 6,5 meter. Det bör finnas minst en raksträcka på ca 45 meter. 
+- En streckad linje kan dras mitt i banan på raksträckan för att banan ska synas bättre. I kurvorna får inga linjer utöver kantlinjerna finnas. Le Mans start ska användas och det ska finnas tio numrerade rutor i kanten av banan i 20 - 45 graders vinkel mot banan och med minst 5 meters mellanrum. På redan befintliga banor ska avståndet hållas så nära dessa mått som möjligt. Rutorna bör vara 70 - 100 cm långa och 30 - 40 cm breda. 
+
 ## Banbestämmelser
 För generella bestämmelser, se RB 18.
 ## Tekniska specifikationer
