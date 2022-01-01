@@ -7,7 +7,7 @@ tolkas som klasspecifika regler för 1/8 GTe. Se även [Tävlingsregler Radiosty
 ## 1/8 GTe
 
 ###  Anmälningsavgift
-Se RB 2.4 för anmälningsavgift. Av varje anmälningsavgift, vid SM/RM och Sverigecuptävling, ska arrangören till **:tw-2757:grenansvarig:tw-2757:** inbetala 30 SEK senast 1 vecka efter tävlingens genomförande.
+Se RB 2.4 för anmälningsavgift. Av varje anmälningsavgift, vid SM/RM och Sverigecuptävling, ska arrangören till grenansvarig inbetala 30 SEK senast 1 vecka efter tävlingens genomförande.
 
 ### Förarställning 1/8 GTe
 - Förarna kan kräva att få välja plats på förarställningen i den ordningen som motsvarar
