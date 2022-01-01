@@ -33,7 +33,7 @@ För laddningsregler se RB-T 1.5
 
 | GTe                 | Mått                                                                                   |
 |---------------------|----------------------------------------------------------------------------------------|
-| **Bredd total max** | mm                                                                                     |
+| **Bredd total** | max 317 mm, min 300 mm                                                                                     |
 | **Längd total max** | mm                                                                                     |
 | **Hjulbas**         | mm                                                                                     |
 | **Höjd total max**  | inklusive störtbåge dock ej antenn. Mäts med fullt nertryckt fjädring                  |
