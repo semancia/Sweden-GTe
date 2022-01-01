@@ -1,4 +1,4 @@
-# Tävlingsregler Sweden GTe 202x
+# Tävlingsregler Sweden GTe
 
 Sweden GTe följer SBF gemensamma tävlingsregler. Reglerna nedan ska
 tolkas som klasspecifika regler för 1/8 GTe. [Se även Tävlingsregler
