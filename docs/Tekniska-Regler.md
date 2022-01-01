@@ -22,9 +22,17 @@ För laddningsregler se RB-T 1.5
 - Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential.
 ### Antenn
 - Antennen måste vara av böjligt material.
+
+### Fartreglage
+- Alla typer av fartreglage kan användas men de får inte störa varvräkningssystemet.
+- Fartreglaget måste rymmas inom bilen och får inte sticka ut genom karossen. Inga yttre
+sensorer, (magnetiska. optiska, mekaniska eller gyro) som känner av hastighet på hjul, drev
+etc. får finnas.
+- Back måste vara bortkopplad.
+- Måste vara / har varit en kommersiellt tillgänglig produkt.
 ### Motor
 - Max 2400 kv eller 2400 rpm / volt
-- Måste vara kommersiellt tillgänglig
+- Måste vara / har varit en kommersiellt tillgänglig produkt.
 ### Broms och koppling
 - Inga extra bromssystem är tillåtet att användas utöver elmotorn & ESC även kallat “friction brake”.
 
