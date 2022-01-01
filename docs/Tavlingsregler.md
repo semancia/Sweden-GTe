@@ -72,8 +72,6 @@ underlättas bland annat omkörningar.
 - I delfinaler och final tillämpas Le Mans start.
 - Gening är endast tillåten under träning och kval under första minuten efter banan öppnats,
 för att sprida ut fältet.
-- Mekaniker får inte lämna startpositionen om bilen stannar efter det att nedräkning från tio
-sekunder inletts.
 ### Startsignal
 Se RB 7.6
 ### Fördröjd start (Time Out)
