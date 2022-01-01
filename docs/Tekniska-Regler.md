@@ -37,7 +37,7 @@ Alla mått ska tas när bilen är körklar och chassiplattan är nedtryckt mot m
 | **Bredd total** | min 300 mm, max 310 mm |
 | **Längd total** | max 590 mm |
 | **Hjulbas** | min 320 mm, max 379 mm |
-| **Höjd total**  | min 135 mm |
+| **Höjd total**  | min 135 mm, max 175 mm |
 | **Minimivikt** | 3800 g |
 
 ---
