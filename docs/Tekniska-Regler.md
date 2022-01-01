@@ -42,6 +42,12 @@ etc. får finnas.
 
 ### Däck
 *Blank*
+
+EFRA:
+I.E. 1 set for Practice, 2 sets for Qualifying+super-pole, 1 set extra for subfinals, 1 set
+extra for main final. All used tyres available for substitution. Tyres will be marked
+with the drivers registration number.
+
 ### Kaross
 - Bumpern ska vara tillverkad av ett flexibelt material och ha rundade hörn. Används bumper bak ska denna vara utförd på samma sätt och av flexibelt material.
 #### Vinge
