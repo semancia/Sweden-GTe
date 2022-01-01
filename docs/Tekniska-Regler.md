@@ -27,9 +27,10 @@ Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte va
 ### Broms och koppling
 Inga extra bromssystem är tillåtet att användas utöver elmotorn & ESC även kallat “friction brake”.
 
-Kraftöverföringen mellan bak & framaxel måste ske genom en eller flera kardanaxlar. Ingen form av remdriven överföring är tillåten. Kuldiff, bakaxlar / framaxlar utan differential & frikopplade framhjul är inte tillåtna. Alla hjul måste kunna drivas av elmotorn. Differential mellan fram & bak är inte ett krav.
+Bilen ska vara utrustad med en differential på både fram & bakaxel och drivas med fyrhjulsdrift. Kraftöverföringen mellan fram & bakaxel måste ske genom en eller flera kardanaxlar. Ingen form av remdriven överföring är tillåten. Alla hjul måste vara kopplade direkt till en differential via en kardanaxel och måste kunna drivas av elmotorn.
 
-Ingen one-way, spools, låsning genom "Torsion-type" eller externt justerbara differentialer är tillåtna. Differentialerna får endast justeras med användning av silikonbaserad vätska. Utväxlingarna i differentialen fram & bak måste vara identiska. Ingen form av underdrive eller overdrive fram eller bak är tillåten. Bilen måste bibehålla det ursprungliga drivsystemets uppbyggnad & funktion.
+Ingen one-way, spools, låsning genom "Torsion-type" eller externt justerbara differentialer är tillåtna. Differentialerna får inte vara en kuldiff och får endast justeras med silikonbaserad vätska. Utväxlingarna i differentialen fram & bakaxel måste vara identiska. Ingen form av underdrive eller overdrive fram eller bak är tillåten. Bilen måste bibehålla det ursprungliga drivsystemets uppbyggnad & funktion.
+
 ### Däck
 *Blank*
 ### Kaross
