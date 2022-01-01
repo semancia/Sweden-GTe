@@ -1,3 +1,9 @@
+---
+title: Tävlingsregler
+layout: template
+filename: Tavlingsregler
+--- 
+
 
 # Tävlingsregler 1/8 GTe
 
