@@ -19,13 +19,17 @@ Gemensamma tekniska regler se RB-T 1.0
 För laddningsregler se RB-T 1.5
 
 ### Allmänt
-Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential. Inga extra bromssystem är tillåtna att använda utöver elmotorn & ESC även kallat “friction brake”.
+Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential.
 ### Antenn
 - Antennen måste vara av böjligt material.
 ### Motor
 *Blank*
 ### Broms och koppling
-*Blank*
+Inga extra bromssystem är tillåtet att användas utöver elmotorn & ESC även kallat “friction brake”.
+
+Kraftöverföringen mellan bak & framaxel måste ske genom en eller flera kardanaxlar. Ingen form av remdriven överföring är tillåten. Kuldiff, bakaxlar / framaxlar utan differential & frikopplade framhjul är inte tillåtna. Alla hjul måste kunna drivas av elmotorn. Differential mellan fram & bak är inte ett krav.
+
+Ingen one-way, spools, låsning genom "Torsion-type" eller externt justerbara differentialer är tillåtna. Differentialerna får endast justeras med användning av silikonbaserad vätska. Utväxlingarna i differentialen fram & bak måste vara identiska. Ingen form av underdrive eller overdrive fram eller bak är tillåten. Bilen måste bibehålla det ursprungliga drivsystemets uppbyggnad & funktion.
 ### Däck
 *Blank*
 ### Kaross
