@@ -2,6 +2,9 @@
 # Klassregler 1:8 GTe
 INT: based on Klassregler 1:8 IC OFF Road
 
+Sweden GTe följer SBF:s tekniska regler för radiostyrd bilsport. Reglerna nedan ska
+tolkas som klasspecifika regler för 1/8 GTe. Se även [Tekniska regler Radiostyrd Bilsport](https://www.sbf.se/Regler/Radiostyrdbilsport/)
+
 ## Allmänt
 *Blank*
 ## Bana och banbeläggning
