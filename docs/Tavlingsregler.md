@@ -1,12 +1,11 @@
 # Tävlingsregler Sweden GTe
 
-Sweden GTe följer SBF gemensamma tävlingsregler. Reglerna nedan ska
-tolkas som klasspecifika regler för 1/8 GTe. [Se även Tävlingsregler
-Radiostyrd bilsport RB][]
+Sweden GTe följer SBF:s tävlingsregler för radiostyrd bilsport. Reglerna nedan ska
+tolkas som klasspecifika regler för 1/8 GTe. [Se även Tävlingsregler Radiostyrd bilsport RB]: https://www.sbf.se/Regler/Radiostyrdbilsport/
 
-## 1:8 GTe
+## 1/8 GTe
 
-### Förarställning 1:8 GTe
+### Förarställning 1/8 GTe
 - Förarna kan kräva att få välja plats på förarställningen i den ordningen som motsvarar
 inplacering i heatet. Detta gäller från semifinal och uppåt.
 - Mekaniker ska alltid stå under sin förare.
@@ -37,6 +36,6 @@ resultat, exempelvis varv och tid, varvtid vid varvtidskval eller poäng.
 
 ### Fördröjd start (Time Out)
 
-  [Se även Tävlingsregler Radiostyrd bilsport RB]: https://www.sbf.se/Regler/Radiostyrdbilsport/
+---
 
 Copyright (c) 2019, 2022, LargescaleSE and/or its affiliates. All rights reserved.
