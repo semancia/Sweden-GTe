@@ -30,13 +30,14 @@ För laddningsregler se RB-T 1.5
 #### Vinge
 *Blank*
 ### Mått och vikt
+Alla mått ska tas när bilen är körbar och chassiplattan är nedtryckt mot marken om inte annat anges.
 
 | GTe                 | Mått                                                                                   |
 |---------------------|----------------------------------------------------------------------------------------|
-| **Bredd total** | max 317 mm, min 300 mm                                                                                     |
-| **Längd total max** | mm                                                                                     |
-| **Hjulbas**         | mm                                                                                     |
-| **Höjd total max**  | inklusive störtbåge dock ej antenn. Mäts med fullt nertryckt fjädring                  |
+| **Bredd total** | min 300 mm, max 310 mm |
+| **Längd total max** | 590 mm                                                                                     |
+| **Hjulbas**         | min 320 mm, max 379 mm                                                                                     |
+| **Höjd total**  | min 135 mm, max X mm                  |
 | **Minimivikt**      | 3200 g (vikt avser körklar och rengjord bil med transponder men utan bränsle i tanken. |
 
 ---
