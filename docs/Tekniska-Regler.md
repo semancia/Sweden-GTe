@@ -3,15 +3,27 @@
 INT: based on Klassregler 1:8 IC OFF Road
 
 ## Banbestämmelser
+För generella bestämmelser, se RB 18.
 ## Allmänt
+*Blank*
 ## Bana och banbeläggning
+*Blank*
 ## Tekniska specifikationer
+*Blank*
 ### Allmänt
+*Blank*
 ### Motor
+*Blank*
 ### Broms och koppling
+*Blank*
 ### Antenn
+*Blank*
 ### Kaross
+*Blank*
 #### Vinge
+*Blank*
+### Däck
+*Blank*
 ### Mått och vikt
 
 | GTe                 | Mått                                                                                   |
@@ -22,6 +34,5 @@ INT: based on Klassregler 1:8 IC OFF Road
 | **Höjd total max**  | inklusive störtbåge dock ej antenn. Mäts med fullt nertryckt fjädring                  |
 | **Minimivikt**      | 3200 g (vikt avser körklar och rengjord bil med transponder men utan bränsle i tanken. |
 
-### Däck
-
+---
 Copyright (c) 2019, 2022, LargescaleSE and/or its affiliates. All rights reserved.
