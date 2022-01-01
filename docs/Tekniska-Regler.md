@@ -2,7 +2,7 @@
 
 ## Banbestämmelser
 
-För generella bestämmelser, se **RB 18**.
+För generella bestämmelser, se **RB 18.0**.
 
 ## Allmänt
 
