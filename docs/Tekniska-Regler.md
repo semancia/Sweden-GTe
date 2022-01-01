@@ -2,27 +2,27 @@
 # Klassregler 1:8 GTe
 INT: based on Klassregler 1:8 IC OFF Road
 
-## Banbestämmelser
-För generella bestämmelser, se RB 18.
 ## Allmänt
 *Blank*
 ## Bana och banbeläggning
 *Blank*
+## Banbestämmelser
+För generella bestämmelser, se RB 18.
 ## Tekniska specifikationer
 *Blank*
 ### Allmänt
+*Blank*
+### Antenn
 *Blank*
 ### Motor
 *Blank*
 ### Broms och koppling
 *Blank*
-### Antenn
+### Däck
 *Blank*
 ### Kaross
 *Blank*
 #### Vinge
-*Blank*
-### Däck
 *Blank*
 ### Mått och vikt
 
