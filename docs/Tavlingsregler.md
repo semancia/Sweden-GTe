@@ -1,7 +1,8 @@
+
 # Tävlingsregler Sweden GTe
 
 Sweden GTe följer SBF:s tävlingsregler för radiostyrd bilsport. Reglerna nedan ska
-tolkas som klasspecifika regler för 1/8 GTe. [Se även Tävlingsregler Radiostyrd bilsport RB]: https://www.sbf.se/Regler/Radiostyrdbilsport/
+tolkas som klasspecifika regler för 1/8 GTe. Se även [Tävlingsregler Radiostyrd bilsport RB](https://www.sbf.se/Regler/Radiostyrdbilsport/)
 
 ## 1/8 GTe
 
