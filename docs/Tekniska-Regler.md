@@ -19,7 +19,7 @@ Gemensamma tekniska regler se RB-T 1.0
 För laddningsregler se RB-T 1.5
 
 ### Allmänt
-- Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential.
+- Chassi får endast vara aluminiumchassi i ett stycke. Karossfästen får inte vara på bärarmar eller andra rörliga ställen. Bilen måste vara utrustad med 4WD (4 wheel drive), “wishbone suspension” och differential. Endast ett servo för styrning är tillåtet.
 ### Antenn
 - Antennen måste vara av böjligt material.
 
