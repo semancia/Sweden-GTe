@@ -19,3 +19,5 @@ Radiostyrd bilsport RB][]
 ### Fördröjd start (Time Out)
 
   [Se även Tävlingsregler Radiostyrd bilsport RB]: https://www.sbf.se/Regler/Radiostyrdbilsport/
+
+Copyright (c) 2019, 2022, LargescaleSE and/or its affiliates. All rights reserved.
