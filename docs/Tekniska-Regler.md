@@ -53,10 +53,10 @@ with the drivers registration number.
 #### Vinge
 Alla mått ska tas när bilen är körklar och chassiplattan är nedtryckt mot marken om inte annat anges.
 
-- Vingen måste fixeras på karossen och måste vila på maximalt tre punkter som inte är större än 50 x 20 mm vardera.
-- Vingen måste vara i ett material likt Lexan™.
+- Vingen ska fixeras på karossen och vila på maximalt tre punkter som inte är större än 50 x 20 mm vardera.
+- Vingen ska vara i ett material likt Lexan™.
 - Vingen får max sticka ut max 10 mm över taket och max 10 mm bakom karossen. Inkluderar alla element på vingen.
-- Vingens mått får inte översiga bredd 79 mm, längd 310 mm. Inkluderar alla element på vingen.
+- Vingens mått får inte översiga en bredd på 79 mm och längd 310 mm. Detta inkluderar alla element på vingen.
 - Sideplates får inte översiga 40 x 70 mm.
 ### Mått och vikt
 Alla mått ska tas när bilen är körklar och chassiplattan är nedtryckt mot marken om inte annat anges.
