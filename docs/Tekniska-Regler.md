@@ -90,7 +90,7 @@ Alla mått ska tas när bilen är körklar och chassiplattan är nedtryckt mot m
 | **Bredd total** | min 300 mm, max 310 mm |
 | **Längd total** | max 590 mm |
 | **Hjulbas** | min 320 mm, max 379 mm |
-| **Höjd total kaross (A)**  | min 135 mm, max 175 mm (utan vinge) |
+| **Höjd kaross (A)**  | min 135 mm, max 175 mm (utan vinge) |
 | **(B)** | max 15 mm |
 | **(D)** | max 50 mm |
 | **(F)** | max 55 mm |
