@@ -99,7 +99,6 @@ Alla mått ska tas när bilen är körklar och chassiplattan är nedtryckt mot m
 | **(B)** | max 15 mm |
 | **(D)** | max 50 mm |
 | **(F)** | max 55 mm |
-| **(G)** | min 47 mm |
 | **Vikt** | min 3800 g |
 ---
 Copyright (c) 2019, 2022, LargescaleSE and/or its affiliates. All rights reserved.
