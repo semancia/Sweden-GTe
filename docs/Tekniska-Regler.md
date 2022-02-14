@@ -41,7 +41,12 @@ etc. får finnas.
 - Ingen one-way, spools, låsning genom "Torsion-type" eller externt justerbara differentialer är tillåtna. Differentialerna får inte vara en kuldiff och får endast justeras med silikonbaserad vätska. Utväxlingarna i differentialen fram & bakaxel måste vara identiska. Ingen form av underdrive eller overdrive fram eller bak är tillåten. Bilen måste bibehålla det ursprungliga drivsystemets uppbyggnad & funktion.
 
 ### Däck
-Endast däcken från GRP nedan är tillåtna.
+Endast följande däck är tillåtna.
+- PMT Carved RALLY18 Soft reinforced
+- PMT Carved RALLY18 Medium reinforced
+- PMT Carved RALLY18 Rain reinforced (Regndäck)
+
+Följande däck är tillåtna under 2022.
 - GRP T01 REVO - GTH01-S3 (Vit fälg inte competition!)
 - GRP T01 REVO – GTX01-S3 (Svart fälg)
 - GRP T01 REVO – GTY01-S3 (Gul fälg)
@@ -51,11 +56,11 @@ Endast däcken från GRP nedan är tillåtna.
 - * GRP T01 REVO - GTY01-R1 (Gula regndäck)
 - * GRP T01 REVO - GTK01-R1 (Silverfärgade regndäck)
 
-Endast två (2) uppsättningar däck (fyra par) är tillåtna per tävling. Däcken ska innan start av första kvalet vara märkta i besiktningen. Endast däck som har GRP:s genuina sigill inuti däcken vara hårdhet kan avläsas kommer att få märkas i besiktningen. Märkta däck gäller endast i Kval & Finaler.
+Fri blandning mellan fram- & bakaxel dock inte mellan PMT & GRP eller om regndäck är monterade.
 
-Endast fälgarna ”flex” från GRP är tillåtna. Vissa fälgar finns både i ”competition hard” och ”flex” var därför noga med att beställa fälgar med rätt artikelnummer.
+Däcken ska ha tillverkarens sigill inuti däcken vars modellbeteckning kan avläsas.
 
-* Om tävlingsledaren, i samråd med förarrepresentanten, utlyser regntävling kommer ett (1) uppsättning regndäck tillåtas. Endast märkta regndäck tillåts.
+* Om tävlingsledaren, i samråd med förarrepresentanten, utlyser regntävling kommer ett (1) uppsättning regndäck tillåtas.
 
 Behandling, preparering eller rengöring av däcken med tillsatser eller modifiering är strängt förbjudet. Den som bryter mot regeln kan bestraffas enligt RB 8.0 och kan också komma att anmälas
 till förbundsbestraffning. Det är dock tillåtet att använda däckvärmare.
