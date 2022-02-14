@@ -1,10 +1,3 @@
----
-title: Tävlingsregler
-layout: template
-filename: Tavlingsregler
---- 
-
-
 # Tävlingsregler 1/8 GTe
 
 Sweden GTe följer SBF:s tävlingsregler för radiostyrd bilsport. Reglerna nedan ska
